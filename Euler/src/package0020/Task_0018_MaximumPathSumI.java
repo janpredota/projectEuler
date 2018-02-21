@@ -1,4 +1,4 @@
-package euler;
+package package0020;
 
 /**
  * By starting at the top of the triangle below and moving to adjacent numbers
